@@ -4,7 +4,7 @@ Vagrant setup by [https://puphpet.com/](https://puphpet.com/)
 ## What's included?
 - Ubuntu Trusty 14.04 LTS x64
 - PHP 5.6
-- PHP modules: cli, intl, mcrypt curl
+- PHP modules: cli, intl, mcrypt & curl
 - Composer
 - Xdebug
 - Ruby 1.9.3
